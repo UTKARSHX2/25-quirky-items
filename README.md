@@ -36,3 +36,4 @@ Enjoy the chats!
 the free version of the itch.io's 3$ version, made by me on itch too
  and the images couldn't be uploaded so I am linking the itch page and making the price free
 
+https://ralsei-2.itch.io/quirky-loot25 
