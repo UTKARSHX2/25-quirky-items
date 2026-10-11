@@ -1,13 +1,7 @@
 🌀 UNHINGED LOOT SYSTEM & DATA PACK 
 
 Thank you for purchasing the 25 Unhinged Loot Items Pack! 
-Inject some pure chaos into your game's reward systems.
-
-📁 QUICK START GUIDE:
-1. Extract this ZIP file.
-2. You will find a `loot_table.json` file and a folder named `item_images`.
-3. Import the JSON into your project to read the item data.
-4. Import the images into your project asset folders.
+Inject some pure chaos into your game's reward system.
 
 ⚙️ QUICK FILE FIXES (PLEASE NOTE):
 
