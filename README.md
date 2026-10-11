@@ -1,6 +1,4 @@
-============================================================================
-🌀 UNHINGED LOOT SYSTEM & DATA PACK - README
-============================================================================
+🌀 UNHINGED LOOT SYSTEM & DATA PACK 
 
 Thank you for purchasing the 25 Unhinged Loot Items Pack! 
 Inject some pure chaos into your game's reward systems.
@@ -30,11 +28,9 @@ so your loading scripts map them automatically without extra work.
 ## ⚖️ Terms of Service & License
 * **Commercial Use:** You are free to use, modify, and distribute these items in any commercial or non-commercial game projects.
 * **Credit:** Attribution is highly appreciated but not strictly required. Go make something hilarious.
-* **Restrictions:** You may not resell this raw JSON file as a standalone asset pack on other marketplaces.
+* **Restrictions:** You may not resell this raw JSON file as a standalone asset on any other marketplace.
 
-============================================================================
-Enjoy the chaos, and good luck with your game!
-============================================================================
+Enjoy the chats!
 
 # 25-quirky-items
 the free version of the itch.io's 3$ version, made by me on itch too
